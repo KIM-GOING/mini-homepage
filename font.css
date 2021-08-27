@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;500&display=swap');
+
+.melody{
+    font-family: 'Hi Melody', cursive;
+}
+
+.nanum{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.font_light{
+    font-weight: 300;
+}
+
+.font_bold{
+    font-weight: 500;
+}
+
+strong{
+    color: orange;
+}
+
+h7{
+    color: red;
+}
+
+h8{
+    color: blue;
+}

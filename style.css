@@ -1,0 +1,65 @@
+.title{
+    color: rgb(61, 61, 255);
+}
+
+.photo_title{
+    background-color: rgb(117, 117, 117);
+    color: white;
+}
+
+select{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid grey;
+    border-radius: 1em;
+}
+
+button{
+    color: white;
+    border: 1px solid blue;
+    border-radius: 0.2em;
+    background-color:rgb(111, 111, 255);
+    height: 20px;
+    width: 80px;
+    margin: 0px 0px 15px;
+}
+
+button:hover{
+    color: white;
+    border: 1px solid blue;
+    border-radius: 0.2em;
+    background-color:rgb(50, 50, 255);
+    height: 20px;
+    width: 80px;
+    margin: 0px 0px 15px;
+}
+
+.secret_button{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: white;
+    color: white;
+}
+
+.secret_button:hover{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: yellow;
+    color: black;
+}
+
+.hidden{
+    display: none;
+}
+
+.box{
+    border: 1px solid rgb(200, 200, 200);
+}
